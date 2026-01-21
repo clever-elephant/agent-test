@@ -8,7 +8,8 @@ public class AgentTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AgentTestApplication.class, args);
-		// todo 1
+		// todo 1: add some code here that does something interesting
+		System.out.println("Hello, Agent Test Application is running!");
 	}
 
 }
